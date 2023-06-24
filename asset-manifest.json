@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/JuneExamRepo/static/css/main.9d8b5057.css",
-    "main.js": "/JuneExamRepo/static/js/main.9f880991.js",
-    "static/media/Hero.mp4": "/JuneExamRepo/static/media/Hero.e4936ab8b2c288c5ab65.mp4",
-    "index.html": "/JuneExamRepo/index.html",
-    "main.9d8b5057.css.map": "/JuneExamRepo/static/css/main.9d8b5057.css.map",
-    "main.9f880991.js.map": "/JuneExamRepo/static/js/main.9f880991.js.map"
+    "main.css": "./static/css/main.9d8b5057.css",
+    "main.js": "./static/js/main.581c10d4.js",
+    "static/media/Hero.mp4": "./static/media/Hero.e4936ab8b2c288c5ab65.mp4",
+    "index.html": "./index.html",
+    "main.9d8b5057.css.map": "./static/css/main.9d8b5057.css.map",
+    "main.581c10d4.js.map": "./static/js/main.581c10d4.js.map"
   },
   "entrypoints": [
     "static/css/main.9d8b5057.css",
-    "static/js/main.9f880991.js"
+    "static/js/main.581c10d4.js"
   ]
 }
