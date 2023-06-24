@@ -3,7 +3,7 @@ import "../index.css"
 import QuizPage from "../Components/QuizPage";
 import { QuizProvider } from "../Contexts/Quiz";
 import Nav from "../Components/Nav"
-import Video from "../Components/Video"
+
 
 
 const InternetArt = () => {

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Nav.css"
 import{Link} from 'react-router-dom'
-import {FaBars, FaTimes} from 'react-icons/fa'
+import {FaBars} from 'react-icons/fa'
 
 
 const Nav = () => {
